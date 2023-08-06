@@ -1,0 +1,22 @@
+{
+  "name": "match-community-tech-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharizanova8703/Match-Community-Tech-App.git"
+  },
+  "author": "Mariya Harzianova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharizanova8703/Match-Community-Tech-App/issues"
+  },
+  "homepage": "https://github.com/mharizanova8703/Match-Community-Tech-App#readme",
+  "dependencies": {
+    "sass": "^1.64.2"
+  }
+}
