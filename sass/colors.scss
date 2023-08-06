@@ -27,3 +27,21 @@
     /* Change color on hover */
     color: #f76dc6;
 }
+
+.react {
+    /* Add transition effect */
+    transition: color 0.5s ease;
+}
+
+.react:hover {
+    background-color: #f76dc6;
+}
+
+.story {
+    /* Add transition effect */
+    transition: color 0.5s ease;
+}
+
+.story:hover {
+    background-color: white;
+}
