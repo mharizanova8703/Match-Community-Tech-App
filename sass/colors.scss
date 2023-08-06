@@ -1,0 +1,29 @@
+.text-green {
+    color: #007A7C;
+}
+
+.bg-pink {
+    background-color: #fef3fa;
+}
+
+.bg-green {
+    background-color: #007A7C;
+}
+
+.w-c {
+    width: 40px;
+}
+
+/* Target the font awesome icon */
+.fa {
+    /* Set initial color */
+    color: black;
+    /* Add transition effect */
+    transition: color 0.5s ease;
+}
+
+/* Add hover effect */
+.fa:hover {
+    /* Change color on hover */
+    color: #f76dc6;
+}
